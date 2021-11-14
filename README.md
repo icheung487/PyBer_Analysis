@@ -15,11 +15,17 @@ I was just hired as a data analyst at Pyber, ride-sharing app. company.  My firs
 
 
 ![image](https://user-images.githubusercontent.com/83436302/141667580-5fd1033f-e411-4a75-9216-cc57e14df809.png)
+* When looking at the average fare per ride, customers pay about $10 higher in the rural aread vs. urban. Customers in the rural areas pay about $35 per ride, while the urban customers pay about $25 per ride. 
+* As a driver, it's an attractive market for them in the rural areas since they average about $55 per fare. While drivers in the urban areas make not be so happy since they average about $39 less than rural drivers and $23 less than suburban drives. 
 
-
-
+![image](https://user-images.githubusercontent.com/83436302/141668807-3162d952-0455-4c15-a2e4-b297a546b02f.png)
+* The above multiple-line chart, "Total Fare by City Type," provides an overall trend of total fare in rural, suburban and urban cities from Jan to April in 2019.  This is a snapshot of the fare happening in Q1 2019. In the yellow line, which represents urban cities, there was a growing trend from Jan. to end of Feb. This trend seems to be similiar to suburban cities as well when looking at the red line.  In the blue line, which represents the rural cities, there's a slight growth from Jan to Feb but you can see it starts to decline after April.  It's interesting to see that there's a similar trend between all cities when looking at overall. 
 
 
 
 ## Summary: 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+* Drivers are earning more in rural cities than urban cities, which leads to potential risk for drivers wanting to leave the urban market and focus on the rural cities instead.  I would recommend CEO to increase the fare for drivers in the urban cities since there's a need of these drivers to continue the demand. 
+* It's clear most of the revenue comes from urban cities so we need to find ways to encourage more people to ride-share in the other areas: rural or suburban.  I would recommend to further analyze why there's low demand in the rural or suburban areas.  It could be a possible that customers don't know about ride-share.
+* I would recommended a employee incentive plan for suburban drivers since this is the second best performing city for Pyber.  This is opportunity to expand this market since there's about 625 rides and only about 490 drivers with a strong revenue trend when looking at the line chart.  
+ 
