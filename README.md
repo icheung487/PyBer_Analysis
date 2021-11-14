@@ -4,7 +4,6 @@ I was just hired as a data analyst at Pyber, ride-sharing app. company.  My firs
 
 ## Results
 ### Overview of the Pyber Summary: 
-![image](https://user-images.githubusercontent.com/83436302/141667580-5fd1033f-e411-4a75-9216-cc57e14df809.png)
 ![image](https://user-images.githubusercontent.com/83436302/141667760-4f2e6f8d-b8d2-4c4d-8e37-2083abd89e98.png)
 
 * About 68% of rides came from urban cities which was the majority of the rides, while rural cities was the least at about 5% of of the total. 
@@ -15,8 +14,8 @@ I was just hired as a data analyst at Pyber, ride-sharing app. company.  My firs
 ![image](https://user-images.githubusercontent.com/83436302/141667786-c143c12b-5121-4571-9a21-a9e2c7564ae6.png)
 
 
+![image](https://user-images.githubusercontent.com/83436302/141667580-5fd1033f-e411-4a75-9216-cc57e14df809.png)
 
-![image](https://user-images.githubusercontent.com/83436302/141667573-631e6e44-86de-49c9-b8a8-3ad907afcfc6.png)
 
 
 
