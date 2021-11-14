@@ -4,6 +4,8 @@ I was just hired as a data analyst at Pyber, ride-sharing app. company.  My firs
 
 ## Results
 Ride -sharing data amoung the different city types
+![image](https://user-images.githubusercontent.com/83436302/141666488-0685529e-2524-4afe-b9f6-0fee4af5c8e9.png)
+
 ride -sharing include the total rides 
 ride -sharing include the total drivers
 ride -sharing include the total fares
