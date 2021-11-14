@@ -6,7 +6,7 @@ I was just hired as a data analyst at Pyber, ride-sharing app. company.  My firs
 ### Overview of the Pyber Summary: 
 ![image](https://user-images.githubusercontent.com/83436302/141667760-4f2e6f8d-b8d2-4c4d-8e37-2083abd89e98.png)
 
-* About 68% of rides came from urban cities which was the majority of the rides, while rural cities was the least at about 5% of of the total. 
+* The figure above shows how rides in urban cities contributed about 68% from Jan-May in 2019. It's clear that during this time most of Pyber's overall rides came from urban cities, then suburban, and rural citities.  Rural cities only made up of about 5% of the overall which is very low when comparing to urban cities. 
 
 ![image](https://user-images.githubusercontent.com/83436302/141667706-89359170-2d40-4f34-be8d-544bca05035b.png)
 * As you can see in the above chart, about 81% of the drivers worked in the urban area, while only 3% worked in rural areas. This is due to the demand from the above chart of the number of rides in the urban area.  This shows a correlation between the number of rides, drives and fares(see below pie chart) for each city type. As the the number of rides grow so does the drives and fare as well. 
