@@ -24,7 +24,6 @@ I was just hired as a data analyst at Pyber, ride-sharing app. company.  My firs
 
 
 ## Summary: 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 * Drivers are earning more in rural cities than urban cities, which leads to potential risk for drivers wanting to leave the urban market and focus on the rural cities instead.  I would recommend CEO to increase the fare for drivers in the urban cities since there's a need of these drivers to continue the demand. 
 * It's clear most of the revenue comes from urban cities so we need to find ways to encourage more people to ride-share in the other areas: rural or suburban.  I would recommend to further analyze why there's low demand in the rural or suburban areas.  It could be a possible that customers don't know about ride-share.
 * I would recommended a employee incentive plan for suburban drivers since this is the second best performing city for Pyber.  This is opportunity to expand this market since there's about 625 rides and only about 490 drivers with a strong revenue trend when looking at the line chart.  
